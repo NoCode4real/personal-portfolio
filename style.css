@@ -1,0 +1,27 @@
+.profile-img{
+    border-radius: 50%;
+}
+#title{
+    background: linear-gradient(300deg, #00bfff, #1188ff, #012bff);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    color:white;
+}
+.contact{
+    background-image: url("https://img.freepik.com/premium-photo/wooden-block-with-symbol-telephone-email-address-website-page-contact-us-e-mail-marketing-concept-3d-rendering_20693-752.jpg")
+}
+.content{
+   width: 300px;
+   height: 200px;
+   background: linear-gradient(300deg, #ad8d48, #c0a153, #e9d88b);
+   position : relative;
+   left: 40%;
+   top : 35%;
+   border-radius: 25%;
+   text-align: center;
+   justify-content: center;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight: 500;
+   color: rgb(239, 231, 199);
+
+}
